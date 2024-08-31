@@ -1,3 +1,6 @@
+
+
+
 # plateforme-meterologique-analytique
 
 ## Introduction
@@ -40,3 +43,9 @@ Cette documentation décrit le projet de collecte et de traitement de données m
 
 ## NB : Il y a un délai d'environ 1 à 2 minutes dans le chargement des données.
     
+# Participants 
+  - ### Ndeye Aida Ndour
+  - ### Siré Ba
+  - ### Mamadou Baldé
+  - ### Seydina DIAME
+  - ### Aliou Amar
