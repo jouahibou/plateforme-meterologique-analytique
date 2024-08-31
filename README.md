@@ -18,7 +18,7 @@ Cette documentation décrit le projet de collecte et de traitement de données m
   - ### Cassandra : Base de données pour le stockage des données historisées
   - ### Streamlit : Outil pour créer un dashboard en temps réel.
 
-## Etape e Mise en Oeuvre 
+## Etape de Mise en Oeuvre 
 
   - ### API utilisée :  OpenWeatherMap
     
