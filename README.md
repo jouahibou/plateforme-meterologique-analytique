@@ -6,6 +6,8 @@ Cette documentation décrit le projet de collecte et de traitement de données m
 
 ## Architecture du Système
 
+meteo/services.png
+
 
   - ### API OpenWeather : Fournit des données météorologiques en temps réel
   - ### Kafka : Utilisé pour le streaming des données entre le producteur et le consommateur
