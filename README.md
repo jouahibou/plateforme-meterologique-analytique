@@ -26,7 +26,7 @@ Cette documentation décrit le projet de collecte et de traitement de données m
     d'organiser les données par ville pour pouvoir les retrouver facilement. En gros, cette structure nous aide à gérer facilement toutes les données météo en temps réel et à les consulter sans complications
 
   - ### Développement d’un Dashboard
-        Utilisation de Streamlit pour afficher les données en temps réel
+    Utilisation de Streamlit pour afficher les données en temps réel
 
 ## Instructions d'Utilisation 
   - ### Cloner le repo : git clone <url-du-dépôt>
