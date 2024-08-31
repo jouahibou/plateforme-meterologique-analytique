@@ -1,0 +1,2 @@
+# Dockerfile pour Kafka
+FROM wurstmeister/kafka:latest
