@@ -6,7 +6,8 @@ Cette documentation décrit le projet de collecte et de traitement de données m
 
 ## Architecture du Système
 
-meteo/services.png
+![Logo](https://github.com/jouahibou/plateforme-meterologique-analytique/blob/main/meteo/services.png)
+
 
 
   - ### API OpenWeather : Fournit des données météorologiques en temps réel
@@ -29,6 +30,8 @@ meteo/services.png
 
   - ### Développement d’un Dashboard
     Utilisation de Streamlit pour afficher les données en temps réel
+
+   ![Logo]( https://github.com/jouahibou/plateforme-meterologique-analytique/blob/main/meteo/streamlit.png )
 
 ## Instructions d'Utilisation 
   - ### Cloner le repo : git clone https://github.com/jouahibou/plateforme-meterologique-analytique.git
