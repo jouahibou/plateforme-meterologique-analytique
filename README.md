@@ -47,5 +47,5 @@ Cette documentation décrit le projet de collecte et de traitement de données m
   - ### Ndeye Aida Ndour
   - ### Siré Ba
   - ### Mamadou Baldé
-  - ### Seydina DIAME
+  - ### Seydina Jouahibou DIAME
   - ### Aliou Amar
