@@ -1,0 +1,4 @@
+requests
+cassandra-driver
+kafka-python
+streamlit

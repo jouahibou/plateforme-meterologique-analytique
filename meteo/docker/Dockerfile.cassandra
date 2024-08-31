@@ -1,0 +1,2 @@
+# Dockerfile pour Cassandra
+FROM cassandra:latest
