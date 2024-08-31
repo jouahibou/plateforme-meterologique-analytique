@@ -29,7 +29,7 @@ Cette documentation décrit le projet de collecte et de traitement de données m
     Utilisation de Streamlit pour afficher les données en temps réel
 
 ## Instructions d'Utilisation 
-  - ### Cloner le repo : git clone <url-du-dépôt>
+  - ### Cloner le repo : git clone https://github.com/jouahibou/plateforme-meterologique-analytique.git
   - ### Lancer Docker Compose : Exécutez docker-compose up pour démarrer tous les services
   - ### Accéder au Dashboard : Ouvrez un navigateur et visitez http://localhost:8501
 
